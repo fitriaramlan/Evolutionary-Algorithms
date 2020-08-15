@@ -1,9 +1,3 @@
-/*
-  jDE and dynNP-jDE implemented by C++
-
-  Version: 1.0   Date: 15/Oct/2013
-  Written by Ryoji Tanabe (rt.ryoji.tanabe@gmail.com)
-*/
 
 #ifndef DE_H_INCLUDED
 #define DE_H_INCLUDED

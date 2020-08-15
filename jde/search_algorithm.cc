@@ -1,9 +1,3 @@
-/*
-  Generational functions for DE algortihms
-
-  Version: 1.0   Date: 11/Oct/2013
-  Written by Ryoji Tanabe (rt.ryoji.tanabe@gmail.com)
-*/
 
 #include "de.h"
 

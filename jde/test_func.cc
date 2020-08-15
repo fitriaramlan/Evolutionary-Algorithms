@@ -1,13 +1,4 @@
-/*
-  CEC14 Test Function Suite
-  Jane Jing Liang (email: liangjing@zzu.edu.cn)
-  Dec. 20th 2013
-  1. Run the following command in Matlab window:
-  mex cec14_func.cpp -DWINDOWS
-  2. Then you can use the test functions as the following example:
-  f = cec14_func(x,func_num);
-  Here x is a D*pop_size matrix.
-*/
+
 // #include <WINDOWS.H>
 #include <stdio.h>
 #include <math.h>
