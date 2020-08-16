@@ -1,0 +1,13 @@
+In this 
+we used different Norms in F-distance file to check with
+ norms like
+
+ 1-NORm,fro-Norm, Inf-Norm,M(no.of objectives), Lp norm(as Two_ar) => p=1/M)
+
+compared with the original our ISDE+ indicator
+
+Only  for DTLZ done!!!
+
+results in DTLZ file stored according to that name.
+
+In word HV: path :-     D:\OUR_CODES\ISDE+-with_random5Weights
