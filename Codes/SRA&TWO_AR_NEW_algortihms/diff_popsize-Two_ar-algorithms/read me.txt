@@ -1,0 +1,10 @@
+
+
+
+Path:- D:\OUR_CODES\SRA&TWO_AR_NEW_algortihms\diff_popsize-Two_ar-algorithms
+***************************************************************************************************************************************************************************************************
+these are run for the different pop size same as other algotirhms 
+
+
+1. Two-ar_diffPOP-New --> tis contains two_ar_standard results(DTLZ&WFG) with different pop size as all other algorithms
+2.Two-ar-Grid_SDE_(unique_obj&POP): (DTLZ&WFG) containd Two-Ar_GRID+SDE with unique solution selection in OBJ & POP space (in Main) with diff POP Size as same other algorithms
