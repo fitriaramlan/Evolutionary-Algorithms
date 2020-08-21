@@ -1,0 +1,41 @@
+SRA-MOd_algorithms: uses GRID mating in SRA ( NAmed New SRA-GRID_DTLZ/WFG)
+
+
+
+
+TWO-Ar_GRID_SDE_algorithms:(these all for same POPULATION size of 100)
+
+
+            1. SIR_SDE-Modifications_NOV19 having NSGAII structure+SDE1&SDENN results for WFG and DTLZ(prof given)
+            2. Two-Ar_GRID: uses only grid in two archive structure
+            3. TWo-Ar_SDE uses only SDE(orignial=min(Distance) in DA archive instead of Lp Norm
+            4. two-Ar_GRID+SDE: uses grid mating and SDE ( combination of above 2&3 )
+
+mating file name : Matingselection_GR_GCD for GRID and GRID+SDE based files in which GR GCD and Sum of OBJ used
+(,updateDA_org & updateDA_SDE respectively)
+
+
+update files:(two ar mating selection for SDE type modifications
+updateDA_sde)
+
+updateCA used which is (updateCAorg) for all
+
+
+
+D:\OUR_CODES\SRA&TWO_AR_NEW_algortihms\TWO-Ar_GRID_SDE_algorithms\Two_Ar_GRID+SDE_sqrt(N)\Two_Ar_GRID+SDE_sqrt(N)-DTLZ\Two_Ar_Grid+SDE_diffDIS
+above path for unique result
+5.With unique (in pop space) code in main file and used sqrtin sde are in Two-Ar_GRID+SDE-sqrt
+
+
+
+D:\OUR_CODES\SRA&TWO_AR_NEW_algortihms\TWO-Ar_GRID_SDE_algorithms\Two_Ar_GRID+SDE_sqrt(N)\Two_Ar_GRID+SDE_sqrt(N)-DTLZ\Two_Ar_GRID+SDE_sqrt(N)-DTLZ
+
+6..Two-Ar_GRID+SDE_sqrt(N)=used sqrt (distance in updateDA-SDE file)
+
+
+
+7.Two-Ar-GRID+SDE(used in 3&4) and UNique in main file in OBJECTIVE space)
+D:\OUR_CODES\SRA&TWO_AR_NEW_algortihms\TWO-Ar_GRID_SDE_algorithms\Two-ar-Grid_SDE_(unique_objspace)--> having both pop and obj space files in same folder(separate main files only difference!!!)
+
+***************************************************************************************************************************************************************************************************
+ run for the different pop size same as othe ralgotirhms: diff_popsize-Two_ar-algorithms folder
